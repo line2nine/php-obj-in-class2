@@ -1,0 +1,1 @@
+# php-obj-in-class2
